@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ggouv\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {}
+    "/Users/ggouv/repos/Factory-Pattern/FactoryPattern/FactoryPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ggouv\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj": {
+    "/Users/ggouv/repos/Factory-Pattern/FactoryPattern/FactoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ggouv\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "/Users/ggouv/repos/Factory-Pattern/FactoryPattern/FactoryPattern.csproj",
         "projectName": "FactoryPattern",
-        "projectPath": "C:\\Users\\ggouv\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
-        "packagesPath": "C:\\Users\\ggouv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ggouv\\repos\\Factory-Pattern\\FactoryPattern\\obj\\",
+        "projectPath": "/Users/ggouv/repos/Factory-Pattern/FactoryPattern/FactoryPattern.csproj",
+        "packagesPath": "/Users/ggouv/.nuget/packages/",
+        "outputPath": "/Users/ggouv/repos/Factory-Pattern/FactoryPattern/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ggouv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ggouv/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
